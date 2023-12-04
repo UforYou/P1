@@ -1,3 +1,6 @@
 # P1
-Games
-Use PyCharm Or Anaconda to execute these scripts
+ Hello guys!
+
+Download files according to your need and use
+
+**Mention the bugs , so I can fix it**
